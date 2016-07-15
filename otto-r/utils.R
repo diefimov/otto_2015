@@ -8,7 +8,7 @@ library(cvTools)
 library(Matrix)
 library(h2o)
 
-data.path <- "../data/"
+data.path <- "../data/input/"
 output.r.path <- "../data/output-r/"
 output.py.path <- "../data/output-py/"
 output.rgf.path <- "../data/output-rgf/"
